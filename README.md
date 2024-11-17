@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Node, NextJs.<br>👯 I want to collaborate on Web3 Technologies.<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about React, Next, Node, GoLang.<br>📫 Reach me at asimalam8@gmail.com<br>⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
+🔭 I’m currently working on React, Node, NextJs.<br>👯 I want to collaborate on Web3 Technologies.<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about React, Next, Node, GoLang.<br>📫 Reach me at asimalam8@gmail.com<br>⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 
 ## 🌐 Socials:
