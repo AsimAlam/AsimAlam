@@ -7,6 +7,7 @@
 
 ## 👨‍💻 **Currently building:**
 🏋️‍♂️[Collaborative Whiteboard](https://whiteboard-frontend-zb1b.onrender.com/)  — An application that enables multiple users to draw, add text, create shapes, and collaborate live.
+🏋️‍♂️[Realtime Notification](https://realtime-notifications-service-frontend.onrender.com)  — A service that delivers persisted notifications and presence updates in real time, with ACKs, replay for missed messages, Redis-backed presence, and a small React UI for demos.
 
 
 # 💻 Tech Stack:
