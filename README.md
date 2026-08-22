@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, React, Node, NextJs.<br>👯 Exploring AI technologies and building impactful products.<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about React, Next, Node, GoLang.<br>📫 Reach me at asimalam8@gmail.com<br>⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+👨‍💻 Software Engineer | Backend & Full-Stack Developer<br><br>🔭 Building scalable backend systems with Java, Spring Boot, Python, Node.js & React<br> 🤖 Exploring AI/LLM technologies and building AI-powered automation<br> ⚙️ Interested in Distributed Systems, System Design & Cloud <br> 🌱 Currently deepening my expertise in Spring Boot, AI & Cloud <br> 📫 Reach me at: asimalam8@gmail.com <br> ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 
 ## 🌐 Socials:
